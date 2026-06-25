@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MYEMS",
+    "description": "Facility energy management system using MYEMS open source, Raspberry Pi, and GitHub.",
+    "tools": ["MYEMS", "Open Source", "Raspberry Pi", "GitHub"],
+    "link": "https://github.com/AUREX-ML/MY-ENERGY-MANAGEMENT-SYSTEM"
+  },
+  {
+    "name": "DERMS Intelligence Platform",
+    "description": "Placeholder project for monitoring, coordinating, and optimizing distributed energy resources.",
+    "tools": ["DERMS", "Power Systems", "Data Analytics", "AI"],
+    "link": "#contact"
+  },
+  {
+    "name": "IIoT Grid Monitoring Prototype",
+    "description": "Placeholder project for connected field monitoring and operational dashboards.",
+    "tools": ["IIoT", "Sensors", "Python", "Dashboards"],
+    "link": "#contact"
+  }
+]

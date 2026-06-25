@@ -1,0 +1,10 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#0B1714"/>
+  <circle cx="450" cy="325" r="160" fill="#F5B83B" opacity="0.9"/>
+  <circle cx="450" cy="325" r="118" fill="#0B1714"/>
+  <path d="M188 914C223 675 323 555 450 555C577 555 677 675 712 914" fill="#7BD88F" opacity="0.9"/>
+  <path d="M128 862C218 786 326 748 450 748C574 748 682 786 772 862" stroke="#4CC9F0" stroke-width="8" opacity="0.75"/>
+  <path d="M182 192C267 112 357 72 450 72C543 72 633 112 718 192" stroke="#F5B83B" stroke-width="6" opacity="0.5"/>
+  <path d="M150 982H750" stroke="#F5B83B" stroke-width="6" opacity="0.65"/>
+  <text x="450" y="1015" text-anchor="middle" fill="#F3F8F1" font-family="Arial, sans-serif" font-size="38" font-weight="700">Replace with real profile photo</text>
+</svg>
